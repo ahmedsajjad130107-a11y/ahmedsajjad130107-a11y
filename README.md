@@ -22,7 +22,24 @@ I build practical applications that connect thoughtful user experiences with use
 
 ## Featured Projects
 
-### 1. [SafarSmart — AI-Powered Travel Planner](https://github.com/ahmedsajjad130107-a11y/fyp3/tree/main/SafarSmart)
+### 1. [Assemblage Clothing — Full-Stack E-Commerce Store](https://github.com/ahmedsajjad130107-a11y/Assemblage-Clothing)
+
+A clothing and lifestyle storefront with product collections, product detail pages, a shopping cart, checkout, order tracking, and an admin dashboard backed by an Express API and SQLite database.
+
+**Highlights**
+- Browse collections and view individual product details
+- Manage cart state and move through the checkout flow
+- Create and manage products, stock, and orders through admin pages
+- Look up order progress with a tracking ID
+- Upload payment proof and extract transaction text with OCR for a prototype verification workflow
+
+**Technologies:** React, React Router, Vite, JavaScript, Node.js, Express, SQLite, Multer, Tesseract.js, Nodemailer.
+
+> Payment verification uses mock/test merchant data in the current prototype; it is not a live payment-gateway integration.
+
+[Explore the project →](https://github.com/ahmedsajjad130107-a11y/Assemblage-Clothing)
+
+### 2. [SafarSmart — AI-Powered Travel Planner](https://github.com/ahmedsajjad130107-a11y/fyp3/tree/main/SafarSmart)
 
 A travel-planning application focused on destinations across Pakistan. The project combines a React Native/Expo mobile app with a FastAPI backend and an optional Gradio web interface.
 
@@ -37,7 +54,7 @@ A travel-planning application focused on destinations across Pakistan. The proje
 
 [Explore the project →](https://github.com/ahmedsajjad130107-a11y/fyp3)
 
-### 2. [CAD AI — Photo-to-CAD Reconstruction Prototype](https://github.com/ahmedsajjad130107-a11y/cad-ai)
+### 3. [CAD AI — Photo-to-CAD Reconstruction Prototype](https://github.com/ahmedsajjad130107-a11y/cad-ai)
 
 An AI-assisted reverse-engineering prototype that uses photos or a short video, together with a known real-world dimension, to produce an approximate 3D reconstruction and CAD-friendly exports.
 
@@ -63,17 +80,19 @@ An AI-assisted reverse-engineering prototype that uses photos or a short video, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-**Currently building with:** Python APIs, TypeScript mobile interfaces, AI-assisted workflows, and full-stack application patterns.
+**Currently building with:** React interfaces, Node.js/Python APIs, database-backed applications, and AI-assisted workflows.
 
 ## What I'm Working Toward
 
